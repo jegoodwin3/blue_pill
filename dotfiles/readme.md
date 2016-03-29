@@ -15,4 +15,5 @@ them
 	cp mrconfig ~/.mrconfig
 	mr update   # will build all github based repos
 ```
+- both homeshick and mr must be installed for 'mr update' to work.
 
