@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 GIT_HOME=$(echo "/c/Users/jgoodwin3")
 cd $GIT_HOME/blue_pill
-if [ ! -n "$GIT_HOME/blue_pill/samples" ]; then
+if [ ! -d "$GIT_HOME/blue_pill/samples" ]; then
   mkdir $GIT_HOME/blue_pill/samples
 fi
 cd ./samples
