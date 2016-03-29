@@ -1,3 +1,5 @@
+# blue_pill
+
 ### dotfiles
 
 This is where the basic environment is bootstrapped.
